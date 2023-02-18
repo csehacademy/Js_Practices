@@ -113,3 +113,4 @@ for (let i=0;i<9;i++){
 console.log(val)
 // burdaki değerlerle oynayarak (6 ve 4)
 // döngü mantığnı daha iyi anlayabiliriz
+
